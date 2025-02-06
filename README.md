@@ -2,7 +2,10 @@
 <img width="1363" alt="image" src="https://github.com/user-attachments/assets/cbe653e8-1e67-4c62-a062-5428a1df1357" />
 <img width="1363" alt="image" src="https://github.com/user-attachments/assets/0cacafe2-e81e-4d2e-98c7-22248103e41e" />
 
-## 运行结果
+## 日志文件原始内容示例
+<img width="1396" alt="image" src="https://github.com/user-attachments/assets/a9e06e03-50fe-4c09-aa40-265a7f272e51" />
+
+## 日志文件运行处理结果示例
 <img width="1203" alt="image" src="https://github.com/user-attachments/assets/e646b4b6-a0f5-4338-87bf-ed3a69d000c6" />
 
 ## 列解析方法配置说明
