@@ -1,0 +1,7 @@
+2025-01-12 13:05:16:234 a.b.c.controller [thread-1] 这是一个测试日志 input
+2025-01-12 13:05:16:782 a.b.c.controller [thread-1] 这是一个测试日志 output
+2025-01-12 13:05:17:121 a.b.c.controller [thread-1] 这是一个测试日志 xxx
+2025-01-12 13:05:17:234 a.b.c.controller [thread-1] 这是一个测试日志 input
+2025-01-12 13:05:18:234 a.b.c.controller [thread-1] 这是一个测试日志 output
+2025-01-12 13:05:19:234 a.b.c.controller [thread-1] 这是一个测试日志 input
+2025-01-12 13:05:19:681 a.b.c.controller [thread-1] 这是一个测试日志 output
